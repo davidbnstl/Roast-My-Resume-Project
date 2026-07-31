@@ -1,6 +1,6 @@
 # Roast My Resume
 
-Small AI-powered tool that grades a resume, gives feedback through "roasts" - After it generates a rewritten version — 
+Small AI-powered tool that grades a resume, gives feedback through "roasts" - After it generates a rewritten version — Built over the summer as an incoming college student looking to learn how AI- assisted software actually gets made.
 
 Try it live: https://claude.ai/public/artifacts/84927624-7ecf-4124-bc17-7dbf4c0b91ff
 
